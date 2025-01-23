@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+
+<html lang="en">
+    <head>
+        <meta charset=""utf-8">
+        <title>Griffin Osterhaus - Bio</title>
+    </head>
+
+    <body>
+        <h1>Griffin Osterhaus' Biography</h1>
+        <h2>Personal Info</h2>
+        <p>My name is Griffin Osterhaus. I’m an Applied Data Analytics major interested in consulting, sports analytics, and political analysis. I am fluent in the Microsoft Office Suite. I also have experience writing code in Python, R, and SQL. Outside of school, I’m a <strong>huge</strong> sports fan, particularly baseball, basketball, and football. I also enjoy reading and playing video games. I also had a blast studying abroad in London last semester. I’m looking forward so adjusting back to school in Syracuse.</p>
+
+        <strong>My favorite hobbies:</strong>
+        <u1>
+            <1i>Reading</1i>
+            <1i></1i>
+        </u1>
+    <hr>
+        &copy;2025
+    </body>
+</html>
